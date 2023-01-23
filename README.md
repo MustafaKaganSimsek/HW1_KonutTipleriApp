@@ -26,17 +26,11 @@ https://github.com/MustafaKaganSimsek/HW1_KonutTipleriApp.git
 ```
 cd .../HW1_KonutTipleriApp
 ```
-2. install maven
-
-```
-mvn install
-```
-
-3. compile project
+2. compile project
 ```
 mvn compile
 ```
-4. run project
+3. run project
 ```
 mvn exec:java -Dexec.mainClass=org.HW_1.Main
 ```
