@@ -18,9 +18,9 @@ public class Produces {
 
     //House Objects
 
-    private HouseDto house1 = new HouseDto(200000.0,65,1,1,"house",1);
-    private HouseDto house2 = new HouseDto(350000.0,90,2,1,"house",1);
-    private HouseDto house3 = new HouseDto(500000.0,120,3,1,"house",1);
+    private HouseDto house1 = new HouseDto(200000.0,65,1,1,"house");
+    private HouseDto house2 = new HouseDto(350000.0,90,2,1,"house");
+    private HouseDto house3 = new HouseDto(500000.0,120,3,1,"house");
 
     //Villa Objects
     private VillaDto villa1 = new VillaDto(1000000.0,150,3,1,"villa");
